@@ -7,7 +7,7 @@ root.geometry("500x270")
 root.title("OTP Verification")
 
 s_email = "youremail@outlook.com" #i use outlook because gmail Less secure app access is not working
-s_password = "yourpassword"
+s_password = "youremailpassword"
 attempts = 0  # To track the number of attempts
 
 # Function to send OTP
